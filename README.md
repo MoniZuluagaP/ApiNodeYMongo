@@ -85,5 +85,5 @@ flowchart TD
   ```
 
   ## 👥Integrantes del Grupo 11
-  ### Zuluaga, Monica M
-  ### Urzagasti, Silvia Liliana
+  #### Zuluaga, Monica M
+  #### Urzagasti, Silvia Liliana
